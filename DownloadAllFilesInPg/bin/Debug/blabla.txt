@@ -1,0 +1,1725 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+            <title>רשות האכיפה והגבייה - טפסים - רשות האכיפה והגבייה</title>
+
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="google-site-verification" content="pg97KL_XTGAZ_hI4HRc7DWJS_OApykYD3nBCvFYOtcE" />
+
+    <!--Add to Home Screen Popup-->
+    
+    <!--Add to home Screen-->
+    <!--support for safari-->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#263c4a">
+    <meta name="apple-mobile-web-app-title" content="GovIL">
+    <link rel="apple-touch-icon" href="/Content/Images/Icons/apple-icon-57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon" href="/Content/Images/Icons/apple-icon-60x60.png" sizes="60x60">
+    <link rel="apple-touch-icon" href="/Content/Images/Icons/apple-icon-72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon" href="/Content/Images/Icons/apple-icon-76x76.png" sizes="76x76">
+    <link rel="apple-touch-icon" href="/Content/Images/Icons/apple-icon-114x114.png" sizes="114x114">
+    <link rel="apple-touch-icon" href="/Content/Images/Icons/apple-icon-120x120.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="/Content/Images/Icons/apple-icon-144x144.png" sizes="144x144">
+    <link rel="apple-touch-icon" href="/Content/Images/Icons/apple-icon-152x152.png" sizes="152x152">
+    <link rel="apple-touch-icon" href="/Content/Images/Icons/apple-icon-180x180.png" sizes="180x180">
+    <link rel="apple-touch-icon" href="apple-icon-57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon" href="apple-icon-60x60.png" sizes="60x60">
+    <link rel="apple-touch-icon" href="apple-icon-72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon" href="apple-icon-76x76.png" sizes="76x76">
+    <link rel="apple-touch-icon" href="apple-icon-114x114.png" sizes="114x114">
+    <link rel="apple-touch-icon" href="apple-icon-120x120.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="apple-icon-144x144.png" sizes="144x144">
+    <link rel="apple-touch-icon" href="apple-icon-152x152.png" sizes="152x152">
+    <link rel="apple-touch-icon" href="apple-icon-180x180.png" sizes="180x180">
+    <!--support for IE-->
+    <meta name="msapplication-TileImage" content="/Content/Images/Icons/app-icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#fff">
+    <meta name="theme-color" content="#263c4a">
+        <!-- Manifest and service worker are case sensitive
+             Therefore we need a solution for dev where site extension changes Govil/govil -->
+        <link rel="manifest" href="/manifest.json" />
+        <script>
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.getRegistrations().then(function (registrations) {
+                    for (let registration of registrations) {
+                        registration.unregister()
+                    }
+                    navigator.serviceWorker
+                    .register("/sw.js")
+                    .then(function () {
+                        console.log('Service worker registered!');
+                    });
+                });
+            }
+        </script>
+
+
+    <link rel="shortcut icon" type="image/ico" href="/Content/Images/favicon.ico" />
+    <link rel="canonical" href="https://www.gov.il/he/Departments/General/forms_enforcement_collection" />
+    
+
+    <script type="text/javascript">
+    var SearchAutocompleteSource = 'https://searchgov.gov.il/govil/Suggest/?query=';
+</script>
+
+
+    
+            <meta name="page-title" content="טפסים - רשות האכיפה והגבייה-gov.il" />
+            <meta name="keywords" content="הגשה, טפסים, טפסי הגשה , בקשת ביצוע,טופס, הוצאה לפועל, הוצל&quot;פ , פתיחת תיקים, סעד, " />
+            <meta name="description" content="טפסים - רשות האכיפה והגבייה" />
+            <meta name="keywords" content="הגשה, טפסים, טפסי הגשה , בקשת ביצוע,טופס, הוצאה לפועל, הוצל&quot;פ , פתיחת תיקים, סעד, " />
+            <meta name="office" content="רשות האכיפה והגבייה" />
+
+
+
+    <link href="/Content/Ver_2/Bootstrap?v=9h-A1QtLlSi9cbHMi4T0e9McB_bF2a5rLA64zc64Zjg1" rel="stylesheet"/>
+    
+
+ 
+    <link href="/Content/Ver_2/GeneralStyle?v=MSeJj5QZcX_gu3HDGHVdqkmqIjqdMKZtd_MwvW4_w_41" rel="stylesheet"/>
+
+
+<link href="/Content/Ver_2/BootstrapRtl?v=EWb6I6hgJkfhsgZYh3eg2FKQOHVVS8lsKwtcRzSJFas1" rel="stylesheet"/>
+<link href="/Content/Ver_2/SpaceRtl?v=4i3bN9PDiEaWGPXPoAXBjsIUYGpDLiii4au6XyxWRSQ1" rel="stylesheet"/>
+
+    
+    <link href="/Content/Ver_2/DataTables?v=wSFJ5fW3oUSHC12a91RpdvgLe1iZvmoD5nFeqhmwevg1" rel="stylesheet"/>
+
+
+
+    <!--script-->
+    <script src="/bundles/Ver_2/jquery?v=9tuURd2b6JRzaRYeebQwnpa62oXVaKeZKbZCz6XU53g1"></script>
+
+    <script src="/bundles/Ver_2/jquery-ui?v=Ymzm0aK2YLdxoM4xdPfrvsTFs4Bm24oRa-Yh4PCHd3Y1"></script>
+
+    <script src="/bundles/Ver_2/generalJS?v=p-R6JEx5CQxLmAQViLvm9GzYcW5ZUwbLR_TXPnEFbA41"></script>
+
+    
+    <script src="/bundles/Ver_2/DataTables?v=rJJ5ZEBQWACr1W4bIQt__J6kZUO4Dgil7MLbEcgxxNM1"></script>
+
+
+
+            <!-- Piwik -->
+        <script type="text/javascript">
+            var _paq = _paq || [];
+            (function(){
+                var u=(("https:" == document.location.protocol) ? "https://stats.tehila.gov.il/" : "http://stats.tehila.gov.il/");
+                _paq.push(['setSiteId', 398]);
+                _paq.push(['setTrackerUrl', u+'piwik.php']);
+                _paq.push(['trackPageView']);
+                _paq.push(['enableLinkTracking']);
+                var d=document,
+                    g=d.createElement('script'),
+                    s=d.getElementsByTagName('script')[0];
+                    g.type='text/javascript';
+                    g.defer=true;
+                    g.async=true;
+                    g.src=u+'piwik.js';
+                    s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+        <!-- End Piwik Code -->
+
+
+
+    <!--Google Analytics-->
+
+<!-- Single Main ID Registration -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66392732-15', 'auto');  
+  ga('send', 'pageview' );
+</script>
+<!-- END Single Main ID Registration -->
+
+ 
+
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-TQNJKX');
+    </script>
+<!-- End Google Tag Manager -->     
+</head>
+
+
+<body>
+
+
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TQNJKX"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+
+	
+
+
+
+<div class="skipToSiteContent row hidden white" style="position:relative; height:30px">
+    <a href="javascript:void(0)" class="skip nounderline" style="position:absolute; left:50%; top:14%;">
+        <span class="txt dark-blue-txt">דלג לתוכן האתר</span>
+        <span class="relative xs-mt-3 ie-pr-5">
+            <i class="arial icon-arrow-left" style="font-size:10px"></i>
+        </span>
+    </a>
+</div>
+
+
+
+
+
+
+
+
+                                                           <header class="xs-mb-10 lg-mb-0">
+                                                               <!--lang & search & icon-->
+                                                               <div class="first-strip">
+                                                                   <div class="container container-gov ">
+                                                                       <div class="row row-gov">
+                                                                           <div class="col-sm-12">
+                                                                               <!--for inner header use class --     flex-inner-pages   -->
+                                                                               <!--<div class=" flex-inner-pages">-->
+                                                                               <!--for home page header use class --     flex-home-page   -->
+                                                                               <!--can be switch by ng-class-->
+                                                                               <div class="flex-inner-pages xs-mt-10 lg-mt-0">
+                                                                                   <!--logo-->
+                                                                                   <div class="flex-item-right">
+
+                                                                                       <div class="logo-and-slogen">
+
+                                                                                           <a href="/he" title="לדף הבית של Gov.il" class="logo-link">
+                                                                                               <span><i class="icon-govil-menorah icon-en-govil-menorah"></i>&nbsp;</span>
+                                                                                           </a>
+
+
+
+                                                                                           <!--header visible on dsk-->
+                                                                                           <span class="lg-mr-10 wellcome-txt-dsk lg-mt-10 hidden-print">
+
+                                                                                               <span class="description-txt white-txt reforma-medium"></span>
+                                                                                               <span class="description-txt white-txt reforma">אתר השירותים והמידע הממשלתי</span>
+
+
+
+                                                                                           </span>
+                                                                                           <!--header visible on mobile-->
+                                                                                           <span class="xs-mr-10 wellcome-txt-mobile hidden-print">
+
+                                                                                               <span class="white-txt reforma">אתר השירותים</span>
+                                                                                               <span class="white-txt reforma">והמידע הממשלתי</span>
+                                                                                           </span>
+
+                                                                                           <!--header visible on print-->
+                                                                                           <span class="xs-mb-10 xs-mr-10 hidden-lg hidden-xs hidden-sm hidden-md">
+                                                                                               <span class="xs-mb-5 block">&nbsp;</span>
+                                                                                               <span class="white-tx h4">האתר לשירותים ולמידע ממשלתי</span>
+                                                                                           </span>
+
+                                                                                       </div>
+
+
+
+                                                                                   </div>
+                                                                                   <!--search wellcome-->
+                                                                                   <div class="flex-item-left hidden-print">
+
+                                                                                       <div class="language lg-mt-25 lg-mb-10">
+                                                                                               <a id="lang_0" class="small-txt hoverunderline" href="/ar/Departments/law_enforcement_and_collection_system_authority">العربية</a>
+            <span class="separator">|</span>
+    <a id="lang_1" class="small-txt hoverunderline" href="/en/Departments/law_enforcement_and_collection_system_authority">English</a>
+            <span class="separator">|</span>
+    <a id="lang_2" class="small-txt hoverunderline" href="/ru/Departments/law_enforcement_and_collection_system_authority">Русский</a>
+
+
+                                                                                           
+
+
+                                                                                       </div>
+                                                                                       <!--header wellcome txt  visible on dsk home page-->
+                                                                                       <span class="wellcome-txt-home lg-mb-20">
+                                                                                           <span class="h3 white-txt reforma-medium lg-mb-10">ברוכים הבאים</span>
+                                                                                           <span class="h3 white-txt">לאתר החדש  לשירותים ולמידע ממשלתי</span>
+
+                                                                                       </span>
+                                                                                       <div id="divSearchDesktop" class="search-desktop visible-md visible-lg lg-mb-20">
+                                                                                           <div id="divSearchBox">
+
+
+
+<form action="/he/Search" id="SearchForm" method="post"><input accesskey="4" class="lg-mr-10" data-val="true" data-val-length="יש להזין 2-25 תווים" data-val-length-max="50" data-val-length-min="2" data-val-regex="יש להזין רק אותיות ומספרים" data-val-regex-pattern="^[\w\u0400-\u04FF؛א-תا-يءةؤىئلآإألأآلاًآ?!@. ,()&#39;&quot;:;%$\-\/\\]*$" data-val-required="שדה חובה" id="searchInput" name="query" placeholder="חיפוש באתר gov.il" results="5" type="search" value="" />    <button type="submit" id="btnSearch" title="חפש"><i class="icon-search"></i></button>
+<span class="field-validation-valid ic-alert" data-valmsg-for="query" data-valmsg-replace="true"></span></form>
+
+                                                                                           </div>
+
+                                                                                       </div>
+
+
+                                                                                   </div>
+
+
+                                                                               </div>
+
+
+                                                                           </div>
+
+
+                                                                       </div>
+
+
+                                                                   </div>
+
+                                                               </div>
+                                                               <!--menu strip-->
+
+                                                               <div class="second-strip  border-top hidden-print">
+                                                                   <div class="container container-gov ">
+                                                                       <div class="row row-gov">
+                                                                           <div class="col-sm-12 menu-flex-container">
+                                                                               <button type="button" class="xs-ml-10 lg-ml-0 white-tx navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                                                                                   <span class="sr-only">תפריט</span>
+                                                                                   <span class="icon-bar"></span>
+                                                                                   <span class="icon-bar"></span>
+                                                                                   <span class="icon-bar"></span>
+                                                                               </button>
+                                                                               
+                                                                               <div id="divSearchMobile" class="search-mobile visible-xs visible-sm ">
+                                                                               </div>
+                                                                           </div>
+                                                                       </div>
+                                                                       <div class="row row-gov">
+                                                                           <div class="col-xs-12">
+                                                                               <div class="collapse navbar-collapse navbar-responsive-collapse">
+                                                                                   <div class="menu-container">
+                                                                                       <ul class="nav navbar-nav list-unstyled">
+                                                                                           <li class="lg-ml-30 visible-md visible-lg"><a href="/he" title="דף הבית" class="h4 reforma h4 white-txt housing"><i class="icon-home"></i>&nbsp;</a></li>
+                                                                                                                                                                                      <li class="visible-xs visible-sm"><a class="reforma h4 white-txt" href="/he" title="דף הבית">דף הבית</a></li>
+
+                                                                                                       <li>
+                <a class="reforma h4 white-txt lg-ml-30" target="_self" href="/he/Subjects/certificates_and_passports/prescription_population" title="שירותים ומידע" style="">שירותים ומידע</a>
+            </li>
+            <li>
+                <a class="reforma h4 white-txt lg-ml-30" target="_self" href="/he/departments" title="משרדים ורשויות" style="">משרדים ורשויות</a>
+            </li>
+            <li>
+                <a class="reforma h4 white-txt lg-ml-30" target="_self" href="/he/Departments/policies" title="מדיניות ונהלים" style="">מדיניות ונהלים</a>
+            </li>
+            <li>
+                <a class="reforma h4 white-txt lg-ml-30" target="_self" href="/he/Departments/legalinfo" title="מידע משפטי" style="">מידע משפטי</a>
+            </li>
+            <li>
+                <a class="reforma h4 white-txt lg-ml-30" target="_self" href="/he/Departments/news" title="חדשות" style="">חדשות</a>
+            </li>
+            <li>
+                <a class="reforma h4 white-txt lg-ml-30" target="_self" href="/he/Departments/publications/" title="פרסומים" style="">פרסומים</a>
+            </li>
+            <li>
+                <a class="reforma h4 white-txt lg-ml-30" target="_self" href="/he/departments/Bureaus" title="קבלת קהל" style="">קבלת קהל</a>
+            </li>
+
+                                                                                       </ul>
+                                                                                   </div>
+                                                                               </div>
+                                                                           </div>
+                                                                       </div>
+                                                                   </div>
+                                                               </div>
+
+
+
+                                                           </header>
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+<article>
+    <section>
+        <div class="container container-gov">
+
+<div class="row row-gov ">
+    <!--breadcrumbs-->
+    <div id="breadcrumbs" class="col-md-12  lg-mt-10">
+        <ul class="breadcrumbs-gov hidden-print">
+                    <!--HP link-->
+                    <li>
+                        <a href="/he" target="_self">דף הבית</a>
+                    </li>
+
+
+            <!-- Generate Link to Collector-->
+                        <li><a href="/he/Departments/informationtype?OfficeId=c673e628-43e7-40e5-9610-19b2ffabce3b" target="_self">מדריכים ומידע</a></li>
+
+            
+            
+
+                            <li><a href="/he/Departments/law_enforcement_and_collection_system_authority" target="_self">רשות האכיפה והגבייה</a></li>
+                            <li><a href="/he/Departments/Topics/execution" target="_self">הוצאה לפועל</a></li>
+                        <li><span class="dark-gray-txt ">טפסים - רשות האכיפה והגבייה</span></li>
+
+        </ul>
+    </div>
+            <div class="clearfix xs-mb-25 lg-mb-30"></div> <!--page with logo-->
+
+</div>
+
+<div class="row row-gov">
+    <!--Logo title-->
+    <div id="OfficeLogo" class="col-md-12 xs-mb-25 lg-mb-30 line-height-zero">
+        <a alt="רשות האכיפה והגבייה" class="flex-horizontal-img-title nounderline" href="/he/Departments/law_enforcement_and_collection_system_authority" title="רשות האכיפה והגבייה"><img class="img-responsive zoom_05" src="/OfficeLogo/law_enforcement_and_collection_system_authority.png" title="רשות האכיפה והגבייה"></img><h2 class="h3 reforma-medium xs-mr-10 dark-blue-txt">רשות האכיפה והגבייה</h2></a>
+    </div>
+</div>
+
+
+            <div class="row row-gov">
+                <div class="col-md-7">
+                    <!--Main title-->
+                    <div class="row row-gov">
+                        <h1 class="h2 blue-txt reforma-medium">טפסים - רשות האכיפה והגבייה</h1>
+                    </div>
+                    <!--Title Description-->
+                    <div class="row row-gov">
+                        <div class="description-txt dark-gray-txt bold tbl-accesabilty tbl-responsive xs-mb-25 lg-mb-30  sub-links-permanent-underline">טפסים - רשות האכיפה והגבייה</div>
+                    </div>
+                    <!--Content Image-->
+
+                    <!--Content Text-->
+                    <div class="row row-gov">
+                        <div class="xs-mb-25 lg-mb-30  margin-for-ul txt tbl-accesabilty tbl-responsive  sub-links-permanent-underline"><table border="1" cellpadding="1" cellspacing="1">
+	<thead>
+		<tr>
+			<th scope="col">נושא</th>
+			<th scope="col">שם הטופס</th>
+			<th scope="col">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>שאלונים</td>
+			<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/_529.pdf" target="_blank">שאלון חייב וכתב ויתור על סודיות</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/528-שאלון%20והנחיות%20זוכה%20מסלול%20מקוצר.pdf"><span>טופס 528 - שאלון והנחיות זוכה מסלול מ<span>&nbsp;</span>קוצר</span></a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>הנחיות</td>
+			<td><a href="http://BlobFolder/generalpage/list_forms_enforcement/he/29-04-17%20טופס%20תשלום%20חוב%20באמצעות%20העברה%20בנקאית.pdf"><span>הנחיות לתשלום חוב באמצעות העברה בנקאית</span></a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/_%D7%94%D7%A1%D7%91%D7%A8%20%D7%9C%D7%A2%D7%A8%D7%91%202013_0.pdf" target="_self">דף הסבר לערב</a></td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement1/he/aravit.pdf" target="_self">דף הסבר לערב מתורגם לערבית -&nbsp;شرح مفصل للكفيل في اللغه العربيه</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement1/he/rusit.pdf" target="_self">דף הסבר לערב מתורגם לרוסית -&nbsp;Разъяснения поручителю</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/_%D7%9E%D7%99%D7%93%D7%A2%20%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%20%D7%94%D7%A4%D7%98%D7%A8%20%D7%9E%D7%97%D7%95%D7%91%D7%95%D7%AA%20%D7%9C%D7%97%D7%99%D7%99%D7%91%20%D7%9E%D7%95%D7%92%D7%91%D7%9C%20%D7%91%D7%90%D7%9E%D7%A6%D7%A2%D7%99%D7%9D_1.pdf" target="_self">איגרת מידע ל"חייב מוגבל באמצעים" במסלול הפטר</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/_%D7%9E%D7%99%D7%93%D7%A2%20%D7%9C%D7%A0%D7%95%D7%A9%D7%99%D7%9D%20%D7%95%D7%9C%D7%96%D7%95%D7%9B%D7%99%D7%9D%20-%20%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%20%D7%94%D7%A4%D7%98%D7%A8%209.1.17%20(1)_0.pdf" target="_self">איגרת מידע לנושים וזוכים במסלול הפטר</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/Guidelines_for_submitting_request_for_cancellation_leave_abroad_0.pdf" target="_self">הנחיות לבקשת ביטול עיכוב יציאה מהארץ</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>שונות</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/osafat_od_0.pdf" target="_self">בקשה להקמה או עדכון עורך דין במערכת ההוצל"פ</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/yipuy%20coha.pdf" target="_self">ייפוי כוח כללי- הוצאה לפועל</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/arvut_0.pdf" target="_self">כתב ערבות</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement1/he/ribiyot.pdf" target="_self">טבלאות ריביות (על פיהם מחושבים החובות בהוצאה לפועל)</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>תצהירים</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/tazhir3.pdf" target="_self">תצהיר</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/_%D7%9E%D7%95%D7%A1%D7%A8%20-%20%D7%A4%D7%91%D7%A8%D7%95%D7%90%D7%A8%202017.pdf" target="_self">תצהיר מוסר</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>הנחיות לפתיחת תיקים</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement1/he/kod_1.pdf" target="_self">רשימת קודים של בתי משפט וערכאות שיפוטיות</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement/he/hatraha.pdf" target="_self">התראה בטרם הגשה לביצוע של תביעה על סכום קצוב</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>&nbsp;<a href="/BlobFolder/generalpage/list_forms_enforcement/he/_%D7%9C%D7%A0%D7%AA%D7%91%D7%A2%20%D7%A2%D7%A8%D7%91%D7%99%D7%AA.pdf" target="_self">התראה בטרם הגשה לביצוע של תביעה על סכום קצוב בשפה הערבית</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>נספחי בקשות זוכה</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td><a href="/BlobFolder/generalpage/list_forms_enforcement1/he/Table_Holders_Connected_Computers_Communication_For_Third_Party_Foreclosures.pdf" target="_self">מחזיקים המחוברים בתקשורת מחשבים עבור עיקולי צד ג'&nbsp;</a></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>גורמי מידע מאושרים עפ"י תקנות (נספח לבקשת זוכה 3)&nbsp;&nbsp;זמנית הוסר הקובץ מהאתר למטרת עדכון</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>נספחי מזונות</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p dir="rtl"><a href="/BlobFolder/generalpage/list_forms_enforcement1/he/_טבלת%20פירוט%20דמי%20מזונות%20שוטפים%20-8.6.16.pdf" target="_self">טבלת פירוט דמי מזונות שוטפים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_טבלת%20פירוט%20הוצאות%20(מזונות)%208.6.16.pdf" target="_self">טבלת פירוט הוצאות</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/Past_debt_Social_security_benefits.pdf" target="_self">בקשה לפריסת חוב - מזונות ביטוח לאומי</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>דגשים למילוי טפסים</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_הגשה%20-%20דגשים%20למילוי%20טפסים-%20זוכים.pdf" target="_self">דגשים למילוי&nbsp;טפסי זוכים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>טבלת המרה</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_המרה%20-קוד%20בקשה%20ישן%20לקוד%20בקשה%20חדש.pdf" target="_self">טבלת ההמרה של קודי&nbsp;הבקשה בטפסים החדשים (כלים שלובים)</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>הרשאה לחיוב חשבון</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_הרשאה%20לחיוב%20חשבון.pdf" target="_self">טופס הרשאה לחיוב חשבון</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>טפסים לפתיחת תיקים</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_200-%20חוב%20כביש%20אגרה-%20חדש.pdf" target="_self">טופס 200- בקשה לביצוע- כביש אגרה</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_201%20%20ביצוע%20משכון-חדש.pdf" target="_self">טופס 201- בקשה לביצוע משכון</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_202%20ביצוע%20מכוח%20מיסים%20גביה-%20חדש.pdf" target="_self">טופס 202- בקשה לביצוע עפ"י פקודת המיסים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_203%20-%20ביצוע%20תביעה%20על%20סכום%20קצוב.pdf" target="_self">טופס 203- בקשה לביצוע תביעה על סכום קצוב</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_205%20-%20בקשה%20לביצוע%20שטרות%20והמחאות.pdf" target="_self">טופס 205- בקשה לביצוע שטרות והמחאות</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_206%20-פסד%20כספי.pdf" target="_self">טופס 206- בקשה לביצוע פס"ד כספי</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_207%20-%20בקשה%20לביצוע%20פסק%20דין%20כספי%20מזונות%20-%20חדש._0.pdf" target="_self">טופס 207- בקשה לביצוע פס"ד כספי מזונות/ מזונות ביטוח לאומי</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_209-%20פסד%20עשה.pdf" target="_self">טופס 209- בקשה לביצוע פסק דין עשה</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement2/he/_210.pdf" target="_self">טופס 210- נתוני חישוב קרן</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/528-%20_1.pdf" target="_self">טופס 528- שאלון והנחיות זוכה במסלול המקוצר</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_600%20-%20לבקשת%20ביצוע%20-%20הוספת%20גורם%20חדש_0.pdf" target="_self">&nbsp;טופס 600- נספח לבקשת ביצוע- הוספת גורם</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_הצהרה%20-%20מספר%20זוכים%20בתיק%20-%20נספח%20לטופס%20בקשה%20לביצוע%209.5.17_0.pdf" target="_self">טופס הצהרה - מספר זוכים בתיק - נספח לטופס בקשה לביצוע</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>טפסי הגשת בקשות ע"י זוכה/ חייב/ צד ג'</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_211_0.pdf" target="_self">טופס 211- בקשות כלליות 1 (העברת תיק ללשכה או למסלול/ מתן תוקף/תגובה להחלטה/ הודעה )</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_212_0.pdf" target="_self">טופס 212- בקשות כלליות 2 (דחייה או ביטול&nbsp;דיון/ זימון צד ג'/ זימון חייב לחקירת יכולת כלכלית)</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_231-%20בקשות%20כלליות%203.pdf" target="_self">טופס 231- בקשות כלליות 3 (סגירת תיק/ החייאת תיק/ הטלת הגבלות)</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_213%20-%20גורמי%20מידע.pdf" target="_self">טופס 213- בקשה למסירת מידע</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_214.pdf" target="_self">טופס 214- בקשה לעיכוב/ ביטול/ חידוש הליכים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/from_215_meudcan.pdf" target="_self">טופס 215-&nbsp;בקשת זוכה לנקיטת הליכים מבצעיים 1 - (רכב/ מיטלטלין/ מקרקעין/ פינוי)</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/216_0.pdf" target="_self">טופס 216- בקשת זוכה לנקיטת הליכי ביצוע 1 - (עיקול צד ג'/ מימוש/ מתחדש/ עיקול כספי זוכה-מימוש)</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/form_217_0.pdf" target="_self">טופס 217- בקשת זוכה לנקיטת הליכי ביצוע 2 - (צו מאסר/ הבאה/ עיכוב יציאה/ אזהרה חוזרת/ אזהרה אישית)</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_218.pdf" target="_self">טופס 218- הארכת מועד להגשת התנגדות/ התנגדות / פרעתי /&nbsp; בקשה לחיוב צד שלישי בחוב הפסוק</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/219_2.pdf" target="_self">טופס 219- עדכון פרטי חייב או זוכה/ שינוי ייצוג</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_220.pdf" target="_self">טופס 220- בקשות כספיות (הקטנה/ הגדלה/ הוספה/ חילוט-החזר ערבון/ עיכוב-שינוי ביטול עיכוב כספים)</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_222.pdf" target="_self">טופס 222- צו תשלומים/ חייב מוגבל/ איחוד תיקים/ צירוף תיק לאיחוד/ ביטול איחוד תיקים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_223.pdf" target="_self">טופס 223- טופס הוספת גורם בתיק (זוכה/ חייב/ כונס נכסים/ בא כח זוכה-חייב/ צד ג'/ בא כח צד ג')</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_300%20בקשה%20לעיקול%20ברישום%20אצל%20גורמי%20צד%20ג.pdf" target="_self">טופס 300- בקשת זוכה לעיקול ברישום אצל גורמי צד ג' - מדיה מגנטית</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_בקשה%20333%20-%20מרשם%20חייבים%20משתמטים.pdf" target="_self">טופס 333 והנחיות לבקשה להכללת חייב במרשם חייבים המשתמטים מתשלום חובותיהם</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/eicod%20tikim.pdf" target="_self">טופס 568- בקשה לאיחוד תיקים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement3/he/_55.pdf" target="_self">טופס 55- בקשה לצו הפטר</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/_10.pdf" target="_self">טופס 10 (10יג) - התנגדות למתן צו הפטר לחייב מוגבל באמצעים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>טפסים להגשה בתיקי כינוס נכסים</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/_224%20-%20בקשה%20למינוי%20כונס%20נכסים%2015%208%2017.pdf" target="_self">טופס 224- בקשה למינוי כונס/ת נכסים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/Form%20225%20-%2018-5-17.pdf" target="_self">טופס 225- דו"ח כונס/ת ראשוני- הליכים מקדמיים בהתאם לצו המינוי</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/Form%20226%20-18-5-17.pdf" target="_self">טופס 226- דו"ח כונס/ת ביניים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/Form%20227%20-%2018-5-17.pdf" target="_self">טופס 227- בקשה לאישור מכר</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/Form%20228%20-%2018-5-17.pdf" target="_self">טופס 228- דו"ח כונס/ת כספי</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/Form%20229%20-%2018-5-17.pdf" target="_self">טופס 229- דו"ח כונס/ת סופי- סיכום פעילות הכונס/ת</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/Form%20232%20New%20-%2018-5-17.pdf" target="_self">טופס 232- (988)&nbsp;בקשה כללית כינוס</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/_-%20התחייבות%20כונס%20נכסים.pdf" target="_self">&nbsp;נספח- התחייבות כונס נכסים</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td>
+						<p><a href="/BlobFolder/generalpage/list_forms_enforcement4/he/_-%20כתב%20ויתור%20על%20סודיות.pdf" target="_self">&nbsp;נספח- כתב ויתור על סודיות</a></p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p></div>
+                    </div>
+
+
+                    <!--  Images And Content-->
+
+                    <!-- Files for Download-->
+                    
+
+                </div>
+                <div class="col-md-1"></div>
+
+                <div class="col-md-4">
+                    <!-- Relevant inks -->
+                    
+
+                </div>
+            </div>
+        </div>
+    </section>
+</article>
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------- Subjects --------------------------------------------->
+
+<!---------------------------------- End Subjects --------------------------------------------->
+<!---------------------------------- Useful --------------------------------------------->
+
+
+
+<!---------------------------------- End Useful --------------------------------------------->
+<footer>
+
+
+    <section class="your-opinion">
+        <div class="container container-gov ">
+
+            <!-- in print view -->
+            <div class="row row-gov xs-mb-25 lg-mb-30 xs-mb-25 hidden-lg hidden-xs hidden-md hidden-sm">
+                        <div class="col-xs-12 xs-mb-10 small-txt gray-txt xs-pl-0 lg-pl-0 width-initial">דף זה עודכן לאחרונה בתאריך 08.03.2018 </div>
+
+            </div>
+
+            <!--horizontal-line-->
+
+            <div class="row row-gov xs-mb-25 lg-mb-30 xs-mb-25 hidden-print">
+
+                <div class="col-md-12 ">
+
+                    <div class="horizontal-line"></div>
+                </div>
+            </div>
+
+            <div class="row row-gov  flex-to-bottom hidden-print ">
+                <div class="col-md-4">
+                            <div class="col-xs-12 xs-mb-10 small-txt gray-txt">דף זה עודכן לאחרונה בתאריך 08.03.2018 </div>
+
+                </div>
+            </div>
+
+            <div class="row row-gov xs-mb-25 lg-mb-30 flex-to-bottom hidden-print">
+
+
+
+                    <div class="col-md-2 col-xs-6  xs-pl-10 lg-pl-20 ">
+                        <div class="social-box ">
+                            <a id="FacebookURL" href="https://facebook.com/sharer.php?u=" onclick="share(this.id)" target="_blank" title="שיתוף הדף בפייסבוק">
+                                <i class="social icon-facebook description-txt blue-txt hidden"></i>
+                                <span class="small-txt  dark-blue-txt ">שיתוף הדף</span>
+                                <i class="social icon-facebook description-txt blue-txt "></i>
+                                &nbsp;
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-xs-6 ">
+                        <div class="social-box ">
+                            <a id="TwitterURL" href="https://twitter.com/intent/tweet?url=" onclick="share(this.id)" target="_blank" title="שיתוף הדף בטוויטר">
+                                <i class="social icon-twitter description-txt blue-txt hidden"></i>
+                                <span class="small-txt  dark-blue-txt ">שיתוף הדף</span>
+                                <i class="social icon-twitter description-txt blue-txt "></i>
+                                &nbsp;
+                            </a>
+
+                        </div>
+                    </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <div class="first-strip  xs-pt-45 lg-pb-30 lg-pt-30 hidden-print">
+        <div class="container container-gov ">
+
+            <div class="row row-gov">
+                <div class="col-md-5 col-xs-12 lg-mt-0 xs-mb-45 lg-mb-0 ">
+                        <h4 class="h3 white-txt reforma-medium xs-mb-25 lg-mb-30 lg-text-align-right">שירותים ומידע</h4>
+                    <!--LINK VISIBLE ON DESKTOP-->
+                    <div id="ServicesFooterControllDsk" class="flex-col-footer visible-on-dsk">
+
+                                <ul class="width-33 list-unstyled remove-last-speace">
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/certificates_and_passports" accesskey="1">אזרחות, תעודות ודרכונים</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/law_and_government" accesskey="1">אכיפה, חוק וממשל</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/environment" accesskey="1">אנרגיה, סביבה וחקלאות</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/people_with_disabilities" accesskey="1">אנשים עם מוגבלות</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/enforcement_and_security_forces" accesskey="1">ביטחון וחירום</a>
+                </li>
+        </ul>
+        <ul class="width-33 list-unstyled remove-last-speace">
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/construction_and_housing" accesskey="1">בנייה, דיור ומקרקעין</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/health_and_wellness" accesskey="1">בריאות ורווחה</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/education" accesskey="1">חינוך והשכלה</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/economy_and_finance" accesskey="1">מסים ותשלומים</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/parents_and_children" accesskey="1">משפחה ומצב אישי</a>
+                </li>
+        </ul>
+        <ul class="width-33 list-unstyled remove-last-speace">
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/labor_and_employment" accesskey="1">עבודה ותעסוקה</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/immigration_and_absorption" accesskey="1">עלייה וקליטה</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/automotive_and_transportation" accesskey="1">תחבורה</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/industry_and_trade" accesskey="1">תעשייה, מסחר ותקשורת</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/culture_and_tourism" accesskey="1">תרבות, ספורט ותיירות</a>
+                </li>
+        </ul>
+
+
+                    </div>
+
+                    <!--LINK VISIBLE ON MOBILE-->
+                    <div id="ServicesFooterControllMbl" class="flex-col-footer-mobile visible-on-mobile">
+
+                        <div class="row row-gov no-gutters text-align-center">
+
+                                <div class="col-xs-6 new-col-6-width pull-right">
+        <ul class="ltr list-unstyled remove-last-speace">
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/certificates_and_passports">אזרחות, תעודות ודרכונים</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/law_and_government">אכיפה, חוק וממשל</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/environment">אנרגיה, סביבה וחקלאות</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/people_with_disabilities">אנשים עם מוגבלות</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/enforcement_and_security_forces">ביטחון וחירום</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/construction_and_housing">בנייה, דיור ומקרקעין</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/health_and_wellness">בריאות ורווחה</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/education">חינוך והשכלה</a>
+                </li>
+        </ul>
+    </div>
+    <div class="col-xs-6 new-col-6-width pull-left">
+        <ul class=" list-unstyled remove-last-speace">
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/economy_and_finance">מסים ותשלומים</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/parents_and_children">משפחה ומצב אישי</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/labor_and_employment">עבודה ותעסוקה</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/immigration_and_absorption">עלייה וקליטה</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/automotive_and_transportation">תחבורה</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/industry_and_trade">תעשייה, מסחר ותקשורת</a>
+                </li>
+                <li class="xs-mb-15">
+                    <a class="txt white-txt " href="/he/Subjects/culture_and_tourism">תרבות, ספורט ותיירות</a>
+                </li>
+        </ul>
+    </div>
+
+
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+                <div class="col-md-5 col-xs-12 xs-mb-45 lg-mb-0 ">
+                        <h4 class="h3 white-txt reforma-medium   xs-mb-25 lg-mb-30 lg-text-align-right">מידע שימושי</h4>
+                    <div id="KnowledgeFooterControllDsk" class="flex-col-footer">
+                            <ul class="width-50 list-unstyled flex-alternative">
+            <li class="xs-mb-15">
+                <a class="txt white-txt " href="/he/Departments/contact" title="צור קשר עם הממשלה" target="_self">צור קשר עם הממשלה</a>
+            </li>
+            <li class="xs-mb-15">
+                <a class="txt white-txt " href="/he/Departments/publications/?skip=0&amp;limit=10&amp;publicationType=0ec5a7ef-977c-459f-8c0a-dcfbe35c8164" title="דרושים" target="_self">דרושים</a>
+            </li>
+            <li class="xs-mb-15">
+                <a class="txt white-txt " href="https://data.gov.il/" title="מאגרי מידע ממשלתיים" target="_blank">מאגרי מידע ממשלתיים</a>
+            </li>
+            <li class="xs-mb-15">
+                <a class="txt white-txt " href="/he/Departments/publications/?skip=0&amp;limit=10&amp;publicationType=0ec5a7ef-977c-459f-8c0a-dcfbe35c8164" title="מכרזים" target="_self">מכרזים</a>
+            </li>
+    </ul>
+    <ul class="width-50 list-unstyled flex-alternative">
+            <li class="xs-mb-15">
+                <a class="txt white-txt " href="/he/Departments/Topics/technical_support_for_online_services" title="תמיכה טכנית בשירותים מקוונים" target="_self">תמיכה טכנית בשירותים מקוונים</a>
+            </li>
+            <li class="xs-mb-15">
+                <a class="txt white-txt " href="/he/Departments/Topics/smart_card_and_electronic_signature" title="כרטיס חכם" target="_self">כרטיס חכם</a>
+            </li>
+            <li class="xs-mb-15">
+                <a class="txt white-txt " href="/he/departments/general/payments" title="העתק אישור תשלום" target="_self">העתק אישור תשלום</a>
+            </li>
+            <li class="xs-mb-15">
+                <a class="txt white-txt " href="/he/Departments/General/remote_support_terms_of_use" title="שירות תמיכה מרחוק" target="_self">שירות תמיכה מרחוק</a>
+            </li>
+    </ul>
+
+                    </div>
+                </div>
+                <div class="col-md-2 col-xs-12  xs-mb-45 lg-mb-0 lg-mt-30">
+                    <div id="SocialNetworksFooterControll" class="flex-col-footer ">
+                        <ul class="list-unstyled width100">
+
+                                        <li class="clearfix social-box xs-mb-25 lg-mb-30 height100">
+                                            <a href="https://www.facebook.com/israelGov" target="_blank" alt="פייסבוק gov.il" title="פייסבוק gov.il" class="ie-social-box-text-center">
+                                                <i class="white-txt social icon-facebook hidden"></i>
+                                                <span class="description-txt white-txt reforma ">פייסבוק gov.il</span>
+                                                <i class="white-txt social icon-facebook "></i>
+                                            </a>
+                                        </li>
+                                        <li class="clearfix social-box xs-mb-25 lg-mb-30 height100">
+                                            <a href="https://twitter.com/israelgov" target="_blank" alt="טוויטר gov.il" title="טוויטר gov.il" class="ie-social-box-text-center">
+                                                <i class="white-txt social icon-twitter hidden"></i>
+                                                <span class="description-txt white-txt reforma ">טוויטר gov.il</span>
+                                                <i class="white-txt social icon-twitter "></i>
+                                            </a>
+                                        </li>
+                                        <li class="clearfix social-box xs-mb-25 lg-mb-30 height100">
+                                            <a href="https://www.youtube.com/channel/UCqGqEABdf5Q0wlxEnc6RH5w/featured" target="_blank" alt="יו טיוב gov.il" title="יו טיוב gov.il" class="ie-social-box-text-center">
+                                                <i class="white-txt social icon-youtube hidden"></i>
+                                                <span class="description-txt white-txt reforma ">יו טיוב gov.il</span>
+                                                <i class="white-txt social icon-youtube "></i>
+                                            </a>
+                                        </li>
+
+
+                        </ul>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="second-strip border-top xs-pt-10 lg-pt-0 hidden-print">
+        <div class="container container-gov ">
+            <div class="row row-gov">
+                <div class="col-sm-12 flex-footer-logo-and-list">
+                    <div class="lg-ml-10 visibel-he  visible-md-inline-block visible-lg-inline-block lg-mt-10    ">
+                        <div class="logo-link">
+
+                            <object oa-reusable-svg
+                                    data="/Content/Images/Ver_2/logo_gov_il_menorah (1).svg"
+                                    type="image/svg+xml"
+                                    class="svg-class">
+                                ממשלת ישראל
+                            </object>
+
+                        </div>
+
+
+                    </div>
+
+                    <div class="lg-ml-10 visible-md-inline-block visible-lg-inline-block lg-mt-10 visibel-en">
+                        <div class="logo-link hidden-xs">
+
+                            <object oa-reusable-svg
+                                    data="/Content/Images/Ver_2/LTR/govil_menorahEN2.svg"
+                                    type="image/svg+xml"
+                                    class="svg-class">
+                                ממשלת ישראל
+                            </object>
+
+                        </div>
+
+
+                    </div>
+
+
+                    <ul class="second-strip-menu-footer xs-mb-10 lg-mb-0 list-unstyled ">
+                                    <li class="xs-ml-5 lg-ml-10">
+                                        <a class="text-decoration-none h5 white-txt reforma" accesskey="2" href="/he/general/aboutus" target="_self">אודות האתר</a>
+                                    </li>
+                                        <li class="xs-ml-5 lg-ml-10"><span class="sep"></span>|</li>
+                                    <li class="xs-ml-5 lg-ml-10">
+                                        <a class="text-decoration-none h5 white-txt reforma" accesskey="2" href="/he/general/terms_of_use" target="_self">תנאי שימוש</a>
+                                    </li>
+                                        <li class="xs-ml-5 lg-ml-10"><span class="sep"></span>|</li>
+                                    <li class="xs-ml-5 lg-ml-10">
+                                        <a class="text-decoration-none h5 white-txt reforma" accesskey="2" href="/he/general/accessibility_statement" target="_self">נגישות</a>
+                                    </li>
+                                        <li class="xs-ml-5 lg-ml-10"><span class="sep"></span>|</li>
+                                    <li class="xs-ml-5 lg-ml-10">
+                                        <a class="text-decoration-none h5 white-txt reforma" accesskey="2" href="/he/sitemap" target="_self">מפת אתר</a>
+                                    </li>
+                                        <li class="xs-ml-5 lg-ml-10"><span class="sep"></span>|</li>
+                                    <li class="xs-ml-5 lg-ml-10">
+                                        <a class="text-decoration-none h5 white-txt reforma" accesskey="2" href="/he/Departments/Topics/technical_support_for_online_services" target="_self">תמיכה טכנית</a>
+                                    </li>
+
+                    </ul>
+                    <div class="visible-xs visible-sm  text-center flex-alternative-logo xs-mt-30">
+                        <a class="logo-link text-decoration-none white-txt" href="/he" title="לדף הבית של Gov.il">
+                            <span><i class="icon-govil-menorah icon-en-govil-menorah"></i></span> &nbsp;
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</footer>
+    <a href="#0" rel="noIndex, nofollow" class="cd-top" title="חזרה לראש הדף">Top</a>
+
+    <script type="text/javascript">
+        $(function () {
+            var blockCollectors = 'False';
+            var officeID = "c673e628-43e7-40e5-9610-19b2ffabce3b";
+            if (~window.location.href.indexOf("blockCollector")) {
+                blockCollectors = "True";
+                officeID = getParameterByName('OfficeId')
+            }
+            if (blockCollectors == "True") {
+                var collectorsToBlock = 'publications|news|policies|Bureaus|Units|legalinfo'.toLowerCase();
+
+                // First call for non-angular DOM Objects
+                blockAndFilterCollectors(officeID, collectorsToBlock)
+
+                // In delay for angular loadings
+                setTimeout(function () {
+                    blockAndFilterCollectors(officeID, collectorsToBlock)
+                }, 3000);
+            }
+        });
+    </script>
+
+
+</body>
+
+</html>

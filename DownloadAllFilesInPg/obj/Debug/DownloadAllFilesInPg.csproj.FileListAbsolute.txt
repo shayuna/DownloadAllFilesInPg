@@ -1,0 +1,9 @@
+c:\users\shay\documents\visual studio 2015\Projects\DownloadAllFilesInPg\DownloadAllFilesInPg\bin\Debug\DownloadAllFilesInPg.exe.config
+c:\users\shay\documents\visual studio 2015\Projects\DownloadAllFilesInPg\DownloadAllFilesInPg\obj\Debug\DownloadAllFilesInPg.csprojResolveAssemblyReference.cache
+c:\users\shay\documents\visual studio 2015\Projects\DownloadAllFilesInPg\DownloadAllFilesInPg\obj\Debug\DownloadAllFilesInPg.Properties.Resources.resources
+c:\users\shay\documents\visual studio 2015\Projects\DownloadAllFilesInPg\DownloadAllFilesInPg\obj\Debug\DownloadAllFilesInPg.csproj.GenerateResource.Cache
+c:\users\shay\documents\visual studio 2015\Projects\DownloadAllFilesInPg\DownloadAllFilesInPg\bin\Debug\DownloadAllFilesInPg.exe
+c:\users\shay\documents\visual studio 2015\Projects\DownloadAllFilesInPg\DownloadAllFilesInPg\bin\Debug\DownloadAllFilesInPg.pdb
+c:\users\shay\documents\visual studio 2015\Projects\DownloadAllFilesInPg\DownloadAllFilesInPg\obj\Debug\DownloadAllFilesInPg.exe
+c:\users\shay\documents\visual studio 2015\Projects\DownloadAllFilesInPg\DownloadAllFilesInPg\obj\Debug\DownloadAllFilesInPg.pdb
+c:\users\shay\documents\visual studio 2015\Projects\DownloadAllFilesInPg\DownloadAllFilesInPg\obj\Debug\DownloadAllFilesInPg.Form1.resources
